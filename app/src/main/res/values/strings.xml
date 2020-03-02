@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My First Apps</string>
+
+    <string name="Welcome">Welcome To Our Apps</string>
+    <string name="test"> This is my test Appliction</string>
+
+    <string name="Name">USER LOGIN</string>
+    <string name="User">Username</string>
+    <string name="Pass">Password</string>
+    <string name="Remind">Remember</string>
+    <string name="Forgate">Forgot Password?</string>
+    <string name="Sin">SINGIN</string>
+    <string name="google">Google</string>
+    <string name="youtube">Youtube</string>
+    <string name="facebook">Facebook</string>
+    <string name="twiteet">Twitter</string>
+    <string name="go">Go</string>
+</resources>
